@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+<main>
+    <h1>{{ config.title }}</h1>
+    <section class="article-preview">
+        <p><a href="{{ get_url(path='@/_index.md') }}">Posts</a></p>
+    </section>
+</main>
+
+{% endblock content %}
