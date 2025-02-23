@@ -1,6 +1,6 @@
 +++
 title = "Audiverificateur"
-date = 2025-20-02
+date = 2025-02-20
 +++
 
 Souvent je vais dans des brocantes dans le but de trouver du matériel de musique.

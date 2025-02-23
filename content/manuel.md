@@ -1,6 +1,6 @@
 +++
 title = "Manuel des trucs"
-date = 2025-20-02
+date = 2025-02-20
 +++
 
 Synthé :
