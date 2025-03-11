@@ -10,6 +10,3 @@ Synthé :
 Boîte à rythme :
 - [Roland MC-307](/assets/manual/pdf/roland_mc307_manual.pdf)
 - [E-mu Drumulator](/assets/manual/pdf/drumulator_manual.pdf)
-
-Trucs bizarre :
-- [Audi-vérificateur](/assets/manual/pdf/eko_super_junio_a_r_manual.pdf)
