@@ -1,12 +1,25 @@
 {% extends "base.html" %}
 
 {% block content %}
-<h1 class="title">
-    {{ section.title }}
-</h1>
-<ul>
+<ul class="article-list">
     {% for page in section.pages %}
-    <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+    <li>
+        <a href="{{ page.permalink | safe }}">
+            <div class="article-title">
+              <span class="date">{{ page.date }}</span>
+              <span class="title">{{ page.title }}</span>
+            </div>
+        </a>
+    </li>
     {% endfor %}
 </ul>
+    <nav class="pagination">
+        <a href="?page=1" class="page-link active">1</a>
+        <!--
+        <a href="?page=2" class="page-link">2</a>
+        <a href="?page=3" class="page-link">3</a>
+        <span class="dots">...</span>
+        <a href="?page=10" class="page-link">10</a>
+        -->
+    </nav>
 {% endblock content %}

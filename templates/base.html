@@ -9,14 +9,19 @@
 <body>
     <header>
         <nav>
-            <a href="/">Accueil</a>
+            <a class="page-link" href="/">Accueil</a>
+            <a href="http://example.com" target="_blank" class="page-link">Documentation - Manuel</a>
+            <a href="http://example.com" target="_blank" class="page-link">Liens</a>
         </nav>
     </header>
+  <main class="container">
+    <h1>{{ config.title}}</h1>
     <section class="section">
-        <div class="container">
+        <div>
             {% block content %} {% endblock %}
         </div>
     </section>
+  </main>
     <footer>
         <p>&copy; 2025 - Useless-Archives.com</p>
     </footer>
