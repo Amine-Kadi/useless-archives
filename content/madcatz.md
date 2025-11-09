@@ -3,13 +3,14 @@ title = "Dual Mod DB15 USB Madcatz TE2+"
 date = 2025-11-07
 +++
 
-En voyant les prix des adaptateurs de chez Brook pour connecter des sticks arcades ou des manettes PS3/PS4 sur Neo Geo, je me suis dis que j'allais plutôt modder mon stick Madcatz TE2+ pour lui rajouter un câble DB15.
+En voyant les prix des [adaptateurs de chez Brook](https://www.smallcab.net/brook-super-converter-ps3ps4-adapter-p-1903.html) pour connecter des sticks arcades ou des manettes PS3/PS4 sur Neo Geo, je me suis dis que j'allais plutôt modder mon stick Madcatz TE2+ pour lui rajouter un câble DB15.
 
 Besoin de pas grand chose :
-	- fils électrique récup dans un vieux câble RJ45 qui trainait.
-	- câble rallonge DB15 choppé pour 3€ sur Aliexpress.
-	- Un tournevis plat
-	- Un tournevis cruciforme
+
+- fils électrique récup dans un vieux câble RJ45 qui trainait.
+- câble rallonge DB15 choppé pour 3€ sur Aliexpress.
+- Un tournevis plat
+- Un tournevis cruciforme
 
 Aucune soudure nécessaire. J'ai mis des dominos pour certains boutons.
 
@@ -69,6 +70,10 @@ Egalement, je pense imprimer des passes câble en 3D. Pour l'instant j'ai mis du
 
 Sur le madcatz il y a deux rangées de 4 boutons.
 
-J'ai choisi le mapping A C / /
-                       B D / /
+J'ai choisi le mapping :
+```
+A C / /
+B D / /
+```
+
 Les jeux Neo Geo, c'est 4 boutons. Pas besoin de plus.
