@@ -16,8 +16,6 @@ Aucune soudure nécessaire. J'ai mis des dominos pour certains boutons.
 
 Le TE2+ est super pratique, on peut l'ouvrir avec une simple pression d'un bouton. Tous les boutons sont accessibles comme ça à l'exception des boutons start, select, derrière un cache en plastique en haut à droite.
 
-PHOTO
-
 Pour accéder à la PCB, il faut dévisser les deux vis qui maintiennent un cache en plastique noir. J'ai totalement retiré le cache pour ma part. J'aurais pu faire quelque chose de plus propre en essayant de cacher tous les câbles et en passant par la fente du cache, mais au cas où il faut changer plus tard, je n'ai pas pris le temps de le faire. (C'est une MVP).
 
 Le gros avantage du stick Madcatz est que la masse est commune pour tous les boutons sur la PCB.
@@ -42,7 +40,7 @@ Pour ma part, j'ai d'abord déterminé la masse. J'ai connecté le fil de masse 
 
 Sur ma table de mapping, j'ai essayé de garder les directions ensemble et les boutons dans l'ordre. Ca sera plus simple pour la suite.
 
-SCREENSHOT LIBREOFFICE CALC
+<img src="/assets/images/madcatz/mapping.png" alt="front" height="400">
 
 Maintenant, on connecte tout.
 
@@ -77,3 +75,8 @@ B D / /
 ```
 
 Les jeux Neo Geo, c'est 4 boutons. Pas besoin de plus.
+
+<img src="/assets/images/madcatz/pcb.jpg" alt="front" width="400">
+<img src="/assets/images/madcatz/pcb2.jpg" alt="front" width="400">
+<img src="/assets/images/madcatz/cosse.jpg" alt="front" width="400">
+<img src="/assets/images/madcatz/stick.jpg" alt="front" width="400">

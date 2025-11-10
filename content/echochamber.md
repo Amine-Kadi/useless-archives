@@ -7,6 +7,9 @@ Le BST Echo Chamber est comme son nom l'indique une chambre à écho, purement a
 J'ai choppé le mien sur Leboncoin pour 160€ avec une cassette.
 Il y a plein de clone de la même boite à écho. On la retrouve sous le nom d'Univox EC 80, mais également Melos Echo Chamber et certainement d'autres noms/marques.
 
+<img src="/assets/images/bst/bst_front.jpg" alt="front" width="400">
+<img src="/assets/images/bst/bst_back.jpg" alt="front" width="400">
+
 Il y a une entrée low, une entrée high, une sortie low, une sortie high.
 
 Le meilleur réglage que j'ai trouvé c'est en branchant un instrument dans l'entrée low et en utilisant la sortie high.
@@ -22,6 +25,8 @@ Hop, on obtient un délai beaucoup plus long. Gros point positif, le moteur tour
 
 Des cartouches type hipac sont utilisées. La mienne est une Apollo HD 5000.
 Les cartouches sont super dures à trouver, il y a des personnes qui font du services de réparation et de renouvellement des bandes.
+
+<img src="/assets/images/bst/tape.jpg" alt="front" width="400">
 
 - [Mytapeecho](https://www.facebook.com/people/Mytapeechocom/61550593901244/)
 - [The Crazycaps](https://www.ebay.com/usr/thecrazycaps)
