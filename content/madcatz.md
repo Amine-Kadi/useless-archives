@@ -8,7 +8,7 @@ En voyant les prix des [adaptateurs de chez Brook](https://www.smallcab.net/broo
 Besoin de pas grand chose :
 
 - fils électrique récup dans un vieux câble RJ45 qui trainait.
-- câble rallonge DB15 choppé pour 3€ sur Aliexpress.
+- câble rallonge DB15 choppé pour 3€ sur [Aliexpress](https://fr.aliexpress.com/item/1005006479569847.html).
 - Un tournevis plat
 - Un tournevis cruciforme
 
