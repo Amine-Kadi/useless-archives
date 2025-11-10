@@ -17,6 +17,6 @@ Audivérificateur J. Derbesse.
 
 Il s'agit donc d'un audimètre qui était utilisé dans les écoles. Impossible de trouver la date exacte de fabrication, impossible de déterminer quand ça a été utilisé. La personne qui me l'a vendue était brocanteur et ne se rappelle plus d'où ça venait (il ne savait même pas ce que c'était).
 
-<img src="/assets/images/audiverificateur/front.jpg" alt="front" width="400">
-<img src="/assets/images/audiverificateur/pcb1.jpg" alt="front" width="400">
-<img src="/assets/images/audiverificateur/pcb2.jpg" alt="front" width="400">
+<img src="/assets/images/audiverificateur/front.jpg" alt="Audivérificateur front" width="400">
+<img src="/assets/images/audiverificateur/pcb1.jpg" alt="Audivérificateur pcb 1" width="400">
+<img src="/assets/images/audiverificateur/pcb2.jpg" alt="Audivérificateur pcb 2" width="400">

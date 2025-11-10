@@ -29,6 +29,7 @@ Mettons le slot en mode button check et sortons le stylo et le papier pour noter
 Pour mettre le slot en button check, il faut mettre le premier dipswitch sur la position 1. Avec une manette fonctionnelle branchée, on peut sélectionner le premier menu "Hardware Test". Puis appuyer sur Start jusqu'à arriver à l'écran Button Check.
 
 0 -> pas d'input
+
 1 -> présence d'input (pression sur un bouton ou direction sur le joystick).
 
 On branche le câble rallonge à la Neo Geo ou au Supergun et maintenant plusieurs solutions :
@@ -40,7 +41,7 @@ Pour ma part, j'ai d'abord déterminé la masse. J'ai connecté le fil de masse 
 
 Sur ma table de mapping, j'ai essayé de garder les directions ensemble et les boutons dans l'ordre. Ca sera plus simple pour la suite.
 
-<img src="/assets/images/madcatz/mapping.png" alt="front" height="400">
+<img src="/assets/images/madcatz/mapping.png" alt="Mapping" height="400">
 
 Maintenant, on connecte tout.
 
@@ -50,7 +51,8 @@ On fait ça pour tous les boutons qu'on veut mapper puis on remet le connecteur 
 
 Pareil pour le joystick.
 Vu que la masse est commune, j'ai choisi de connecter le fil de masse du câble à la masse du joystick.
-Schéma Sanwa JLF
+
+<img src="/assets/images/madcatz/jlfsanwa.png" alt="Wiring JLF Sanwa" height="400">
 
 Ensuite pour Start et Select c'est pareil, ce sont les connecteurs respectivement gris et blanc, même technique, le fil sur le pin dans le connecteur sur la PCB.
 
@@ -76,7 +78,7 @@ B D / /
 
 Les jeux Neo Geo, c'est 4 boutons. Pas besoin de plus.
 
-<img src="/assets/images/madcatz/pcb.jpg" alt="front" width="400">
-<img src="/assets/images/madcatz/pcb2.jpg" alt="front" width="400">
-<img src="/assets/images/madcatz/cosse.jpg" alt="front" width="400">
-<img src="/assets/images/madcatz/stick.jpg" alt="front" width="400">
+<img src="/assets/images/madcatz/pcb.jpg" alt="PCB Madcatz TE2+" width="400">
+<img src="/assets/images/madcatz/pcb2.jpg" alt="PCB Madcatz TE2+ 2" width="400">
+<img src="/assets/images/madcatz/cosse.jpg" alt="Cosse Madcatz TE2+" width="400">
+<img src="/assets/images/madcatz/stick.jpg" alt="Full Madcatz TE2+ DB15" width="400">

@@ -7,8 +7,8 @@ Le BST Echo Chamber est comme son nom l'indique une chambre à écho, purement a
 J'ai choppé le mien sur Leboncoin pour 160€ avec une cassette.
 Il y a plein de clone de la même boite à écho. On la retrouve sous le nom d'Univox EC 80, mais également Melos Echo Chamber et certainement d'autres noms/marques.
 
-<img src="/assets/images/bst/bst_front.jpg" alt="front" width="400">
-<img src="/assets/images/bst/bst_back.jpg" alt="front" width="400">
+<img src="/assets/images/bst/bst_front.jpg" alt="BST Front" width="400">
+<img src="/assets/images/bst/bst_back.jpg" alt="BST back" width="400">
 
 Il y a une entrée low, une entrée high, une sortie low, une sortie high.
 
@@ -21,12 +21,12 @@ Mon potentiomètre était beaucoup plus petit, du coup la goupille de calage de 
 
 Avec un switch type DPDT il devrait même être possible de rajouter un potentiomètre à côté pour garder le pot original. Mais bon, de mon côté j'ai simplement remplacé et j'ai gardé l'original au cas où.
 
-Hop, on obtient un délai beaucoup plus long. Gros point positif, le moteur tourne beaucoup plus lentement, à un point où il devient beaucoup plus silencieux.
+La syntaxe de la commande n'est pas correcte.
 
 Des cartouches type hipac sont utilisées. La mienne est une Apollo HD 5000.
 Les cartouches sont super dures à trouver, il y a des personnes qui font du services de réparation et de renouvellement des bandes.
 
-<img src="/assets/images/bst/tape.jpg" alt="front" width="400">
+<img src="/assets/images/bst/tape.jpg" alt="BST Tape - Apollo HD5000" width="400">
 
 - [Mytapeecho](https://www.facebook.com/people/Mytapeechocom/61550593901244/)
 - [The Crazycaps](https://www.ebay.com/usr/thecrazycaps)

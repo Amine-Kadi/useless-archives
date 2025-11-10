@@ -20,36 +20,36 @@ Je fais des photos plus tard
 
 ## Fatal Fury 2 :
 
-<img src="/assets/images/mvs/ff2_front.jpg" alt="front" height="400">
-<img src="/assets/images/mvs/ff2_back.jpg" alt="front" height="400">
-<img src="/assets/images/mvs/ff2_side.jpg" alt="front" height="400">
+<img src="/assets/images/mvs/ff2_front.jpg" alt="Fatal Fury 2 front" height="400">
+<img src="/assets/images/mvs/ff2_back.jpg" alt="Fatal Fury 2 back" height="400">
+<img src="/assets/images/mvs/ff2_side.jpg" alt="Fatal Fury 2 side" height="400">
 
 - [PDF](/assets/mvs/fatalfury2/ff2.pdf)
 - [Template PSD](/assets/mvs/fatalfury2/ff2.psd)
 
 ## Multigame 161 in 1 :
 
-<img src="/assets/images/mvs/multigame_front.jpg" alt="front" height="400">
-<img src="/assets/images/mvs/multigame_back.jpg" alt="front" height="400">
-<img src="/assets/images/mvs/multigame_side.jpg" alt="front" height="400">
+<img src="/assets/images/mvs/multigame_front.jpg" alt="Multigame front" height="400">
+<img src="/assets/images/mvs/multigame_back.jpg" alt="Multigame back" height="400">
+<img src="/assets/images/mvs/multigame_side.jpg" alt="multigame side" height="400">
 
 - [PDF](/assets/mvs/multigame/multigame.pdf)
 - [Template PSD](/assets/mvs/multigame/multigame.psd)
 
 ## Real Bout Fatal Fury 2 :
 
-<img src="/assets/images/mvs/rbff2_front.jpg" alt="front" height="400">
-<img src="/assets/images/mvs/rbff2_back.jpg" alt="front" height="400">
-<img src="/assets/images/mvs/rbff2_side.jpg" alt="front" height="400">
+<img src="/assets/images/mvs/rbff2_front.jpg" alt="Real Bout Fatal Fury 2 Front" height="400">
+<img src="/assets/images/mvs/rbff2_back.jpg" alt="Real Bout Fatal Fury 2 back" height="400">
+<img src="/assets/images/mvs/rbff2_side.jpg" alt="Real Bout Fatal Fury 2 side" height="400">
 
 - [PDF](/assets/mvs/rbff2/rbff2.pdf)
 - [Template PSD](/assets/mvs/rbff2/rbff2.psd)
 
 ## Windjammers :
 
-<img src="/assets/images/mvs/windjammers_front.jpg" alt="front" height="400">
-<img src="/assets/images/mvs/windjammers_back.jpg" alt="front" height="400">
-<img src="/assets/images/mvs/windjammers_side.jpg" alt="front" height="400">
+<img src="/assets/images/mvs/windjammers_front.jpg" alt="Windjammers front" height="400">
+<img src="/assets/images/mvs/windjammers_back.jpg" alt="Windjammers back" height="400">
+<img src="/assets/images/mvs/windjammers_side.jpg" alt="Windjammers side" height="400">
 
 - [PDF](/assets/mvs/windjammers/Windjammers.pdf)
 - [Template PSD](/assets/mvs/windjammers/windjammers.psd)
