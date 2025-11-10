@@ -21,10 +21,9 @@ Mon potentiomètre était beaucoup plus petit, du coup la goupille de calage de 
 
 Avec un switch type DPDT il devrait même être possible de rajouter un potentiomètre à côté pour garder le pot original. Mais bon, de mon côté j'ai simplement remplacé et j'ai gardé l'original au cas où.
 
-La syntaxe de la commande n'est pas correcte.
-
-Des cartouches type hipac sont utilisées. La mienne est une Apollo HD 5000.
+Des cartouches cassettes type hipac sont utilisées. La mienne est une Apollo HD 5000.
 Les cartouches sont super dures à trouver, il y a des personnes qui font du services de réparation et de renouvellement des bandes.
+Ce sont des 8-track tape. Cassettes 8 pistes.
 
 <img src="/assets/images/bst/tape.jpg" alt="BST Tape - Apollo HD5000" width="400">
 
