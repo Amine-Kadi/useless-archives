@@ -12,10 +12,11 @@ date = 2025-12-15
 | Fatal Fury 3 | Original |
 | Real Bout Fatal Fury | Original |
 | Real Bout Fatal Fury 2 | Original |
-| Garou Mark of the Wolves | Original |
+| Garou Mark of the Wolves | Original SNKG |
 | Multigame 161 in 1 series 1| Bootleg |
 | Puzzle de Pon | Original |
 | Super Sidekicks 2 | Original |
+| The King of Fighters 95 | Original SNKG |
 | Windjammers | Convert sur plaque SNK |
 
 ---------------------------------------------
