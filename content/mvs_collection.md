@@ -14,6 +14,7 @@ date = 2025-12-15
 | Real Bout Fatal Fury 2 | | Original |
 | Garou Mark of the Wolves | US | Original SNKG |
 | Multigame 161 in 1 series 1 | / | Bootleg |
+| Puzzle Bobble | Jap | Original |
 | Puzzle de Pon | Jap | Original |
 | Super Sidekicks 2 | | Original |
 | The King of Fighters 94 | | Original |
