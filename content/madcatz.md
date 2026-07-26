@@ -82,23 +82,29 @@ Les jeux Neo Geo, c'est 4 boutons. Pas besoin de plus.
 MAJ - 25/07/2026
 
 Ordre des pins sur le DB15 mâle :
-1 - GND
-2 - Kick 2 (pour jeux 6 boutons) / Bouton 6
-3 - Select
-4 - D
-5 - B
-6 - Droite
-7 - Bas
-8 - +5V
-9 - Non branché
-10 - Kick 1 (Pour jeux 6 boutons) / Bouton 5
-11 - Start
-12 - C
-13 - A
-14 - Gauche  
-15 - Haut
 
-<img src="/assets/images/madcatz/pcb.jpg" alt="PCB Madcatz TE2+" width="400">
+| Numéro bouton | Mapping |
+|---|---|
+| 1 | GND |
+| 2 | Kick 2 (pour jeux 6 boutons) / Bouton 6 |
+| 3 | Select |
+| 4 | D |
+| 5 | B |
+| 6 | Droite |
+| 7 | Bas |
+| 8 | +5V |
+| 9 | Non branché |
+| 10 | Kick 1 (Pour jeux 6 boutons) / Bouton 5 |
+| 11 | Start |
+| 12 | C |
+| 13 | A |
+| 14 | Gauche |
+| 15 | Haut |
+
+
+<img src="/assets/images/madcatz/pcb1.jpg" alt="PCB Madcatz TE2+" width="400">
 <img src="/assets/images/madcatz/pcb2.jpg" alt="PCB Madcatz TE2+ 2" width="400">
-<img src="/assets/images/madcatz/cosse.jpg" alt="Cosse Madcatz TE2+" width="400">
-<img src="/assets/images/madcatz/stick.jpg" alt="Full Madcatz TE2+ DB15" width="400">
+<img src="/assets/images/madcatz/inside.jpg" alt="Inside Madcatz TE2+" width="400">
+<img src="/assets/images/madcatz/layout.jpg" alt="Layout Madcatz TE2+" width="400">
+<img src="/assets/images/madcatz/outside2.jpg" alt="Oustide Madcatz TE2+" width="400">
+<img src="/assets/images/madcatz/switch.jpg" alt="Switch Madcatz TE2+" width="400">
