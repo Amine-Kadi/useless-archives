@@ -4,9 +4,10 @@ date = 2026-07-27
 +++
 
 J'ai décidé de migrer définitivement ma machine de jeu sur Linux (avec Endeavour, histoire d'avoir Arch Linux).
-J'ai rencontré un problème : les inputs de mes sticks arcade ne sont pas reconnus. C'est super embettant : je n'ai que des sticks arcade puisque je joue majoritairement à des jeux de combats.
 
-# Debug
+J'ai rencontré un problème : les inputs de mes sticks arcade ne sont pas tous reconnus et ceux qui sont reconnus sont mal mappés dans mes jeux. C'est super embettant : je n'ai que des sticks arcade puisque je joue majoritairement à des jeux de combats. Si mes sticks ne fonctionnent pas, aucun moyen de jouer correctement.
+
+## Debug
 
 Déjà, est-ce que mon stick existe ?
 
@@ -23,5 +24,5 @@ On teste les inputs avec evtest.
 Tous les inputs sont reconnus mais le mapping n'est pas correct.
 
 Pour remapper j'ai utilisé jstest-git : [https://github.com/Grumbel/jstest-gtk](https://github.com/Grumbel/jstest-gtk)
-Puis pour sauvegarder le profil créé : jscal-store de joyutils.
-https://man.archlinux.org/man/extra/joyutils/jscal-store.1.en
+
+Puis pour sauvegarder le profil créé : jscal-store de joyutils. Pour le doc, cf [https://man.archlinux.org/man/extra/joyutils/jscal-store.1.en](https://man.archlinux.org/man/extra/joyutils/jscal-store.1.en)
