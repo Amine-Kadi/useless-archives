@@ -26,3 +26,12 @@ Tous les inputs sont reconnus mais le mapping n'est pas correct.
 Pour remapper j'ai utilisé jstest-git : [https://github.com/Grumbel/jstest-gtk](https://github.com/Grumbel/jstest-gtk)
 
 Puis pour sauvegarder le profil créé : jscal-store de joyutils. Pour le doc, cf [https://man.archlinux.org/man/extra/joyutils/jscal-store.1.en](https://man.archlinux.org/man/extra/joyutils/jscal-store.1.en)
+
+
+Lien en vrac : 
+
+https://github.com/sezanzeb/input-remapper
+
+https://askubuntu.com/questions/32031/how-do-i-configure-a-joystick-or-gamepad
+
+Fightstick Tester (fonctionne uniquement sur un navigateur basé sur Chromium) ; https://controllertest.io/fight-stick-tester/
