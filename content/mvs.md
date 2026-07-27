@@ -13,6 +13,16 @@ Si vous voulez faire des modifs, il y a aussi le PSD.
 Après avoir imprimé, coupez, pliez, collez et voilà.
 Inspiré par [NeoSleeves MVS](https://drive.google.com/drive/folders/1E8_4eCowKsewJ5i3wIc1zZ_QWd5THhIn?usp=drive_open)
 
+Une fois imprimée, coupée, plié, j'ai inséré les boîtes en carton dans des crystal case pour catouche MVS. Si une cartouche MVS rentre, alors la slipcase rentre aussi.
+
+---
+
+Mise à jour 27 juillet 2026
+
+J'ai utilisé ces crystal case trouvée pour pas cher sur Aliexpress : [https://fr.aliexpress.com/item/1005012144762376.html](https://fr.aliexpress.com/item/1005012144762376.html) (2€79 au 27 juillet 2026)
+
+---
+
 Je fais des photos plus tard
 
 ## Template :
