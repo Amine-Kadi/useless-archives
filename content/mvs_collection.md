@@ -11,6 +11,7 @@ date = 2025-12-15
 | Fatal Fury Special | US | Original |
 | Fatal Fury 3 | | Original |
 | Real Bout Fatal Fury | | Original |
+| Real Bout Fatal Fury Special | Jap | Original |
 | Real Bout Fatal Fury 2 | | Original |
 | Garou Mark of the Wolves | US | Original SNKG |
 | Multigame 161 in 1 series 1 | / | Bootleg |
