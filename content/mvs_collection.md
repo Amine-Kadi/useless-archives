@@ -7,6 +7,7 @@ date = 2025-12-15
 |------|-----|------|
 | Art of Fighting | US | Original |
 | Art of Fighting 3 | US | Convert |
+| Fatal Fury | US | Original |
 | Fatal Fury 2 | US | Original |
 | Fatal Fury Special | US | Original |
 | Fatal Fury 3 | | Original |
@@ -15,11 +16,15 @@ date = 2025-12-15
 | Real Bout Fatal Fury 2 | | Original |
 | Garou Mark of the Wolves | US | Original SNKG |
 | Multigame 161 in 1 series 1 | / | Bootleg |
+| Pop'n'bounce | Jap | Original |
 | Puzzle Bobble | Jap | Original |
 | Puzzle de Pon | Jap | Original |
+| Super Sidekicks | | Original |
 | Super Sidekicks 2 | | Original |
 | The King of Fighters 94 | | Original |
 | The King of Fighters 95 | Jap | Original SNKG |
+| The King of Fighters 97 | Jap | Original SNKG |
+| The King of Fighters 98 | Jap | Original SNKG |
 | Windjammers | / | Convert sur plaque SNK |
 | World Heroes 2 Jet | Jap | Original SNKG |
 
