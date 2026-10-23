@@ -26,6 +26,7 @@ date = 2025-12-15
 | The King of Fighters 97 | Jap | Original SNKG |
 | The King of Fighters 98 | Jap | Original SNKG |
 | Windjammers | / | Convert sur plaque SNK |
+| World Heroes | | Original |
 | World Heroes 2 Jet | Jap | Original SNKG |
 
 ---------------------------------------------
