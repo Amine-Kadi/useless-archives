@@ -21,6 +21,7 @@ date = 2025-12-15
 | Puzzle de Pon | Jap | Original |
 | Super Sidekicks | | Original |
 | Super Sidekicks 2 | | Original |
+| Super Sidekicks 3: The Next Glory | | Original |
 | The King of Fighters 94 | | Original |
 | The King of Fighters 95 | Jap | Original SNKG |
 | The King of Fighters 97 | Jap | Original SNKG |
