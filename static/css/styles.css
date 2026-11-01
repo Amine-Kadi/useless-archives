@@ -77,7 +77,7 @@ details[open] summary {
 }
 
 .date {
-  color: #90caf9;
+  color: #676a64;
   font-size: 0.9rem;
 }
 
@@ -136,7 +136,7 @@ details[open] summary {
 }
 
 .page-link.active {
-  background-color: #2196f3;
+  background-color: #d2c6c6;
   color: white;
   font-weight: bold;
   pointer-events: none;
@@ -155,4 +155,3 @@ header {
     text-align: center;
     border-bottom: 1px solid #333;
 }
-

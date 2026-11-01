@@ -11,20 +11,19 @@
         <nav>
             <a class="page-link" href="/">Accueil</a>
             <a href="https://tune-zitoune.gitlab.io/tunezitoune/" target="_blank" class="page-link">Tune Zitoune</a>
-            <a href="#" class="page-link">Documentation - Manuel</a>
             <a href="https://sonar.gllmr.fr/" target="_blank" class="page-link">L'agenda Sonar</a>
         </nav>
     </header>
   <main class="container">
-    <h1>{{ config.title}}</h1>
-    <section class="section">
-        <div>
+    <h1>{{ config.title }}</h1>
+    <section class="section" aria-labelledby="content-heading">
+        <div id="content">
             {% block content %} {% endblock %}
         </div>
     </section>
   </main>
-    <footer>
-        <p>&copy; 2025 - Useless-Archives.com</p>
+    <footer role="contentinfo">
+        <p>&copy; 2026 - Useless-Archives.com</p>
     </footer>
 </body>
 </html>
